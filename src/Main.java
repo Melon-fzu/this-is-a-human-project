@@ -35,6 +35,7 @@ public class Main {
         System.out.println(person2.name);
         System.out.println(person2.age);
         System.out.println(person2.gender);
+        System.out.println("1111");
 
     }
 }
